@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Stopwatch</string>
+    <string name="stop">Stop</string>
+    <string name="reset">Reset</string>
+    <string name="start">Start</string>
+    <string name="place_holder">Activity Name</string>
+    <string name="addAct">Start Activity</string>
+    <string name="newAct">Non Existing Activity</string>
+    <string name="chooseExisitng">Choose Existing Activity</string>
+    <string name="cancel">Cancel</string>
+    <string name="chooseTimingStyle">Choose Timing Style</string>
+    <string name="other">Other</string>
+    <string name="timingStyle">Timing Style</string>
+    <string name="congratulations">Congratulations!</string>
+    <string name="endActivity">End Current Activity</string>
+    <string name="awesome">Awesome!</string>
+
+    <string name="monday_name_short">M</string>
+    <string name="tuesday_name_short">T</string>
+    <string name="wednesday_name_short">W</string>
+    <string name="thursday_name_short">T</string>
+    <string name="friday_name_short">F</string>
+    <string name="saturday_name_short">S</string>
+    <string name="sunday_name_short">S</string>
+
+    <string-array name="sampleStoredNames">
+        <item>RUNNING</item>
+        <item>WORKOUT</item>
+        <item>STUDY</item>
+    </string-array>
+
+    <string-array name="timingTypes">
+        <item>Standard</item>
+        <item>Pomodoro Technique</item>
+    </string-array>
+
+</resources>

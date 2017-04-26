@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="whiteText">#ffffff</color>
+    <color name="white">#ffffff</color>
+    <color name="colorStartActivity">#00b612</color>
+    <color name="colorStopActivity">#ffe100</color>
+    <color name="colorResetActivity">#ff6200</color>
+    <color name="colorEndActivity">#ff0000</color>
+
+    <color name="easy">#FCF3CF</color>
+    <color name="medium">#ffe100</color>
+    <color name="medium_hard">#ff6200</color>
+    <color name="intense">#ff0000</color>
+
+
+
+
+</resources>
