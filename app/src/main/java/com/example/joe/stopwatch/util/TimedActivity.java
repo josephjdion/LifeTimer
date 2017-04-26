@@ -25,7 +25,7 @@ public class TimedActivity implements Parcelable {
         this.secondsSpent = minutesSpent*60;
         this.StartDate = date;
     }
-
+    // comment 
     public int getHoursSpent() {return this.secondsSpent/3600;}
     public int getMinutesSpent() { return this.secondsSpent/60;}
     public int getSecondsSpent() { return this.secondsSpent;}
